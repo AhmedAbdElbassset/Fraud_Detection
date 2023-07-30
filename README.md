@@ -52,5 +52,7 @@ Through this project, we have demonstrated the effectiveness of various machine 
 
 
 <div>
+ <p align="center">
  <img src= "https://news.mit.edu/sites/default/files/images/201809/MIT-Fraud-Detection-PRESS.jpg" width ="200">
+</p>
 <div>
