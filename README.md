@@ -51,7 +51,8 @@ We evaluate the performance of each model using several metrics, including AUC, 
 Through this project, we have demonstrated the effectiveness of various machine learning models for fraud detection using the Bank fraud dataset. We hope that this project will be useful for researchers and practitioners in the field of fraud detection.
 
 
-
 <p align="center">
+ <img src = "[https://github.com/AhmedAbdElbassset/Fraud_Detection/assets/63741964/942a7e56-a69d-4b8f-b718-3540c45345af](https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL)" width = "500">
+</p>
  <img src = "[https://github.com/AhmedAbdElbassset/Fraud_Detection/assets/63741964/942a7e56-a69d-4b8f-b718-3540c45345af](https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL)https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL" width = "500">
 </p>
