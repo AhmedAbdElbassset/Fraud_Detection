@@ -52,5 +52,5 @@ Through this project, we have demonstrated the effectiveness of various machine 
 
 
 <div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.mit.edu%2F2018%2Fmachine-learning-financial-credit-card-fraud-0920&psig=AOvVaw09LOmKodQ1y2_FRWuz1iV_&ust=1690835345905000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC-odOit4ADFQAAAAAdAAAAABAE" width ="200">
+ <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.mit.edu%2F2018%2Fmachine-learning-financial-credit-card-fraud-0920&psig=AOvVaw09LOmKodQ1y2_FRWuz1iV_&ust=1690835345905000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOC-odOit4ADFQAAAAAdAAAAABAE" width ="200">
 <div>
