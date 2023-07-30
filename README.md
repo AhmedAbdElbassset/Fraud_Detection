@@ -52,5 +52,5 @@ Through this project, we have demonstrated the effectiveness of various machine 
 
 
 <div>
-<img src ="[https://t4.ftcdn.net/jpg/04/75/03/07/360_F_475030738_kT8sJumBrd5E3cPDhzn0nWjHsGuP79u9.jpg](https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL)https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL" width ="200">
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.identixweb.com%2Fshopify-fraud-protection-how-to-deal-with-high-risk-orders%2F&psig=AOvVaw21vQ5rg8aKrcaIeOQBXxUQ&ust=1690834482548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7xbeft4ADFQAAAAAdAAAAABAb" width ="200">
 <div>
