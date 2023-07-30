@@ -28,7 +28,16 @@ we use dataset consist of The base dataset and its five variants include:
 
 ## Models
 We have implemented and evaluated several machine learning models for fraud detection using the Bank fraud dataset, including:
-- Logistic Regression
-- Random Forest
-- Gradient Boosting
-- Neural Network
+ - Random Forest
+ - Logistic Regression
+ - XGBClassifier
+ - Neural Network
+
+## Evaluation
+We evaluate the performance of each model using several metrics, including accuracy, precision, recall, and F1 score.
+
+## Conclusion
+Through this project, we have demonstrated the effectiveness of various machine learning models for fraud detection using the Bank fraud dataset. We hope that this project will be useful for researchers and practitioners in the field of fraud detection.
+
+
+
