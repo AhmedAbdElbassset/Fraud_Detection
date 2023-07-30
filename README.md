@@ -8,3 +8,7 @@
 
 ## DataSet
 [Kaggel] (https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) - dataset 
+
+we use dataset consist of The base dataset and its five variants include:
+   - 1 million data instances each
+   - 32 features
