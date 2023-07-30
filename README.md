@@ -9,7 +9,7 @@ This project focuses on building and evaluating machine learning models for frau
 ## Motivation:-
 The motivation of this Task lies in the potential consequences of the fraudulent activities. Fraud as we said can lead to a huge financial loss, Dange to the reputation of the affected businesses and legal consequences. Additionally, businesses must consider the ethical amplification of failing to prevent or detect fraud. So, a robust fraud detection system can help prevent these negative outcomes by quickly identifying and flagging potential fraud cases, protecting both the business and its customers.
 
-### Getting Started
+## Getting Started
 
 To get started with this project, you will need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
@@ -25,3 +25,10 @@ There are six different datasets that mimic bank account fraud
 we use dataset consist of The base dataset and its five variants include:
    - 1 million data instances each
    - 32 features
+
+## Models
+We have implemented and evaluated several machine learning models for fraud detection using the Bank fraud dataset, including:
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+- Neural Network
