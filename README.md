@@ -51,6 +51,6 @@ We evaluate the performance of each model using several metrics, including AUC, 
 Through this project, we have demonstrated the effectiveness of various machine learning models for fraud detection using the Bank fraud dataset. We hope that this project will be useful for researchers and practitioners in the field of fraud detection.
 
 
-
-<img src ="[[[[https://github.com/AhmedAbdElbassset/Fraud_Detection/assets/63741964/942a7e56-a69d-4b8f-b718-3540c45345af]](https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL)https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40bryansmith0409%2Flearn-how-fraud-detection-software-will-surely-catch-the-crooks-techdogs-41cfea34da58%3Fsource%3Drss-------1&psig=AOvVaw21vQ5rg8aKrcaIeOQBXxUQ&ust=1690834482548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7xbeft4ADFQAAAAAdAAAAABAF)https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40bryansmith0409%2Flearn-how-fraud-detection-software-will-surely-catch-the-crooks-techdogs-41cfea34da58%3Fsource%3Drss-------1&psig=AOvVaw21vQ5rg8aKrcaIeOQBXxUQ&ust=1690834482548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7xbeft4ADFQAAAAAdAAAAABAF](https://miro.medium.com/v2/resize:fit:828/0*tstetBRjH6S87-QL)https://miro.medium.com/v2/resize:fit:828/0*tstetBRjH6S87-QL" width = "500">
-
+<div>
+<img src ="[https://t4.ftcdn.net/jpg/04/75/03/07/360_F_475030738_kT8sJumBrd5E3cPDhzn0nWjHsGuP79u9.jpg](https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL)https://miro.medium.com/v2/resize:fit:1252/0*tstetBRjH6S87-QL" width ="200">
+<div>
