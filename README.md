@@ -52,5 +52,5 @@ Through this project, we have demonstrated the effectiveness of various machine 
 
 
 <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI9YBo5j2DQkk3gDNNEBbmj_KThsgJEoh2rDt8oBhCf4Ez5zBLnYIF5Nbe9aOfVycdHY&usqp=CAU" width ="200">
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI9YBo5j2DQkk3gDNNEBbmj_KThsgJEoh2rDt8oBhCf4Ez5zBLnYIF5Nbe9aOfVycdHY&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLI2XkR2qHejGhDNbE57OGfCuJ_LU1halbSNFl20padIIiXeLtflGu22Mk0ihWfVFrKrQ&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLI2XkR2qHejGhDNbE57OGfCuJ_LU1halbSNFl20padIIiXeLtflGu22Mk0ihWfVFrKrQ&usqp=CAU " width ="200">
 <div>
