@@ -52,5 +52,5 @@ Through this project, we have demonstrated the effectiveness of various machine 
 
 
 <div>
-<img src= "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.identixweb.com%2Fshopify-fraud-protection-how-to-deal-with-high-risk-orders%2F&psig=AOvVaw21vQ5rg8aKrcaIeOQBXxUQ&ust=1690834482548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7xbeft4ADFQAAAAAdAAAAABAb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappay.com%2Fblog%2Fprevent-expense-fraud%2F&psig=AOvVaw21vQ5rg8aKrcaIeOQBXxUQ&ust=1690834482548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7xbeft4ADFQAAAAAdAAAAABAj)https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappay.com%2Fblog%2Fprevent-expense-fraud%2F&psig=AOvVaw21vQ5rg8aKrcaIeOQBXxUQ&ust=1690834482548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNj7xbeft4ADFQAAAAAdAAAAABAj" width ="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI9YBo5j2DQkk3gDNNEBbmj_KThsgJEoh2rDt8oBhCf4Ez5zBLnYIF5Nbe9aOfVycdHY&usqp=CAU" width ="200">
 <div>
