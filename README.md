@@ -32,7 +32,9 @@ The baseline code has four models:
  - Logistic Regression
  - XGBclassifier
  - Neural Network
- We improved the models' performance by fine-tuning their settings using random search. 
+   
+ We improved the models' performance by fine-tuning their settings using random search.
+ 
 After that, we added two more models:
   - DecisionTree Classifier 
   - ExtraTrees Classifier.
