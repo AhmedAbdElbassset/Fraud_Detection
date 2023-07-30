@@ -48,7 +48,7 @@ After that, we added two more models:
 We evaluate the performance of each model using several metrics, including AUC, precision, recall, and F1 score.
 
 ## Conclusion:-
-Through this project, we have demonstrated the effectiveness of various machine learning models for fraud detection using the Bank fraud dataset. We hope that this project will be useful for researchers and practitioners in the field of fraud detection.
+Through this project, we have demonstrated the effectiveness of various machine learning models for fraud detection using the Bank fraud dataset. We hope that this project will be useful for researchers and practitioners in the field of fraud detection.  
 
 
 <div>
