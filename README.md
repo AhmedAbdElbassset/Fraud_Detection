@@ -9,14 +9,14 @@ This project focuses on building and evaluating machine learning models for frau
 ## Motivation:-
 The motivation of this Task lies in the potential consequences of the fraudulent activities. Fraud as we said can lead to a huge financial loss, Dange to the reputation of the affected businesses and legal consequences. Additionally, businesses must consider the ethical amplification of failing to prevent or detect fraud. So, a robust fraud detection system can help prevent these negative outcomes by quickly identifying and flagging potential fraud cases, protecting both the business and its customers.
 
-## Getting Started
+### Getting Started
 
 To get started with this project, you will need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
 [git clone ](https://github.com/AhmedAbdElbassset/Fraud_Detection.git") - base code
 
 
-## DataSet
+## DataSet:-
 [Kaggel](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) - dataset 
 
 In 2022, the Bank Account Fraud (BAF) datasets were released at NeurIPS. 
@@ -26,17 +26,22 @@ we use dataset consist of The base dataset and its five variants include:
    - 1 million data instances each
    - 32 features
 
-## Models
-We have implemented and evaluated several machine learning models for fraud detection using the Bank fraud dataset, including:
- - Random Forest
+## Models:-
+The baseline code has four models: 
+ - RandomForest Classifier
  - Logistic Regression
- - XGBClassifier
+ - XGBclassifier
  - Neural Network
+ We improved the models' performance by fine-tuning their settings using random search. 
+After that, we added two more models:
+  - DecisionTree Classifier 
+  - ExtraTrees Classifier.
 
-## Evaluation
+
+## Evaluation:-
 We evaluate the performance of each model using several metrics, including AUC, precision, recall, and F1 score.
 
-## Conclusion
+## Conclusion:-
 Through this project, we have demonstrated the effectiveness of various machine learning models for fraud detection using the Bank fraud dataset. We hope that this project will be useful for researchers and practitioners in the field of fraud detection.
 
 
