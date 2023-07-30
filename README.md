@@ -13,7 +13,7 @@ The motivation of this Task lies in the potential consequences of the fraudulent
 
 To get started with this project, you will need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
-[git clone] (https://github.com/AhmedAbdElbassset/Fraud_Detection.git" width = '500') - base code
+[gitclone](https://github.com/AhmedAbdElbassset/Fraud_Detection.git" width = '500') - base code
 
 
 ## DataSet
