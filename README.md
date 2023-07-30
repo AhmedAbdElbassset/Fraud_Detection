@@ -13,11 +13,11 @@ The motivation of this Task lies in the potential consequences of the fraudulent
 
 To get started with this project, you will need to clone the repository to your local machine. You can do this by running the following command in your terminal:
 
-[baseCode](https://github.com/AhmedAbdElbassset/Fraud_Detection.git") - base code
+[git clone ](https://github.com/AhmedAbdElbassset/Fraud_Detection.git") - base code
 
 
 ## DataSet
-[Kaggel] (https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) - dataset 
+[Kaggel](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) - dataset 
 
 In 2022, the Bank Account Fraud (BAF) datasets were released at NeurIPS. 
 There are six different datasets that mimic bank account fraud
