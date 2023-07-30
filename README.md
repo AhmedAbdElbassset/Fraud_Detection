@@ -17,8 +17,10 @@ To get started with this project, you will need to clone the repository to your 
 
 
 ## DataSet:-
-<img src = "https://t4.ftcdn.net/jpg/04/75/03/07/360_F_475030738_kT8sJumBrd5E3cPDhzn0nWjHsGuP79u9.jpg" width = "500">
-
+<div>
+<img src ="https://t4.ftcdn.net/jpg/04/75/03/07/360_F_475030738_kT8sJumBrd5E3cPDhzn0nWjHsGuP79u9.jpg" width ="500">
+<div>
+ 
 [Kaggel](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022) - dataset 
 
 In 2022, the Bank Account Fraud (BAF) datasets were released at NeurIPS. 
