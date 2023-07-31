@@ -15,6 +15,9 @@ To get started with this project, you will need to clone the repository to your 
 
 [git clone ](https://github.com/AhmedAbdElbassset/Fraud_Detection.git)
 
+Once you have cloned the repository, you can navigate to the project directory and install the necessary dependencies by running:
+pip install -r requirements.txt
+
 
 ## DataSet:-
 <div>
